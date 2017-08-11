@@ -85,4 +85,4 @@ exclude:
   - README.md
   - CNAME
   
-permalink: /blog/:year/:month/:day/:title
+permalink: /blog/:title
